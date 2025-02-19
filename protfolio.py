@@ -28,16 +28,22 @@ t3.write('''I am eager to apply my skills to real-world projects and am actively
            ➡️Develop applications that solve everyday problems,
           Work on collaborative team projects to gain practical experience in software development.
          Build dynamic websites and mobile apps using advanced technologies.''')
-t4.title(":orange[Education🧑🏻‍🎓]")
+t4.title(":orange[Education📖]")
 t4.header(":green[Bachelor of Computer Applications (BCA)💻]")
 t4.write('''Developed a strong foundation in programming, database management, software development, and web technologies.
              Studied core subjects including Data Structures, Operating Systems, Networking, Software Engineering, and Object-Oriented Programming.
              Participated in workshops, seminars, and tech events to enhance technical and professional knowledge.''')
-t4.header(":green[Achievements🏅]")
+t4.header(":green[Achievements🏆]")
 t4.write(''':red[Second Runner-Up – Internal Hackathon]
             Recognized as part of the second runner-up team in an internal college hackathon.
          This experience honed my skills in teamwork, critical thinking, and quick problem-solving under pressure.
          ''')
+t4.link_button("👨‍💻Go to Hackathon Gallery👨‍💻","https://photos.app.goo.gl/EXJaznETNTwaJ5NJ6")
+t4.header(":green[Certification🏅]")
+t4.write('''1.) I am thrilled to announce the completion of my User Interface (UI) Design Certification in Figma! This
+         certification has strengthened my ability to create visually appealing, user-friendly, and functional digital
+         interfaces.''')
+t4.link_button("🎓Go to my certificate🎓","https://simpli-web.app.link/e/dEdG1cri7Qb")
 t4.link_button("👨‍💻Go to Hackathon Gallery👨‍💻","https://photos.app.goo.gl/EXJaznETNTwaJ5NJ6")
 t5.header(":orange[Contact ☎️]")
 t5.write('''Whether you have a question, a project collaboration, or a professional opportunity, feel free to reach out to me.''')
