@@ -44,7 +44,6 @@ t4.write('''1.) I am thrilled to announce the completion of my User Interface (U
          certification has strengthened my ability to create visually appealing, user-friendly, and functional digital
          interfaces.''')
 t4.link_button("🎓Go to my certificate🎓","https://simpli-web.app.link/e/dEdG1cri7Qb")
-t4.link_button("👨‍💻Go to Hackathon Gallery👨‍💻","https://photos.app.goo.gl/EXJaznETNTwaJ5NJ6")
 t5.header(":orange[Contact ☎️]")
 t5.write('''Whether you have a question, a project collaboration, or a professional opportunity, feel free to reach out to me.''')
 t5.subheader(":red[Get in Touch👆🏼]")
