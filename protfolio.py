@@ -36,10 +36,10 @@ color_changing_name = f"""
 """
 
 t1.markdown(color_changing_name + color_changing_script, unsafe_allow_html=True)
-#t2.markdown(color_changing_name + color_changing_script, unsafe_allow_html=True)
-#t3.markdown(color_changing_name + color_changing_script, unsafe_allow_html=True)
-#t4.markdown(color_changing_name + color_changing_script, unsafe_allow_html=True)
-#t5.markdown(color_changing_name + color_changing_script, unsafe_allow_html=True)
+t2.markdown(color_changing_name + color_changing_script, unsafe_allow_html=True)
+t3.markdown(color_changing_name + color_changing_script, unsafe_allow_html=True)
+t4.markdown(color_changing_name + color_changing_script, unsafe_allow_html=True)
+t5.markdown(color_changing_name + color_changing_script, unsafe_allow_html=True)
 
 t1.title(":orange[About Me🙋‍♂️]")
 b1, b2 = t1.columns([3, 1])
